@@ -47,7 +47,7 @@ pip install pydexcom requests
 
 ### Step 3: Configure Dexcom API Credentials
 
-You need to configure your Dexcom API credentials. Open the `dexcom_reader.py` file and replace the placeholders with your **Dexcom username** and **password**:
+You need to configure your Dexcom API credentials. It also works with Dexcom Website login username and password. Open the `dexcom_reader.py` file and replace the placeholders with your **Dexcom username** and **password**:
 
 ```python
 dexcom = Dexcom(username="your_email_or_phone", password="your_password", ous=True)
