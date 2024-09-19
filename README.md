@@ -1,5 +1,7 @@
 # Dexcom Blood Glucose Monitoring with Zsh Prompt Integration
 
+![Dexcom_1](images/dexcom_1.png)
+
 This project allows you to display **live blood glucose (BG) values** from a **Dexcom CGM (Continuous Glucose Monitoring)** device directly in your **Zsh prompt**. The BG values are dynamically updated in the prompt along with the current time, providing real-time glucose monitoring directly in your terminal.
 
 ## Features
@@ -41,6 +43,7 @@ Install the required Python libraries using `pip`:
 ```bash
 pip install pydexcom requests
 ```
+![Dexcom_2](images/Dexcom_2.png)
 
 ### Step 3: Configure Dexcom API Credentials
 
