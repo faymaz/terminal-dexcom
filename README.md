@@ -43,7 +43,7 @@ Install the required Python libraries using `pip`:
 ```bash
 pip install pydexcom requests
 ```
-![Dexcom_2](images/Dexcom_2.png)
+![Dexcom_2](images/dexcom_2.png)
 
 ### Step 3: Configure Dexcom API Credentials
 
