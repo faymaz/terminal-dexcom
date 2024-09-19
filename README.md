@@ -49,8 +49,14 @@ pip install pydexcom requests
 
 You need to configure your Dexcom API credentials. It also works with Dexcom Website login username and password. Open the `dexcom_reader.py` file and replace the placeholders with your **Dexcom username** and **password**:
 
+If you outside the USA
 ```python
 dexcom = Dexcom(username="your_email_or_phone", password="your_password", ous=True)
+```
+
+If you live in USA
+```python
+dexcom = Dexcom(username="your_email_or_phone", password="your_password")
 ```
 
 ### Step 4: Set Up the Zsh Prompt
