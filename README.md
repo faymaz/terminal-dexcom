@@ -32,8 +32,8 @@ This project allows you to display **live blood glucose (BG) values** from a **D
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/faymaz/dexcom-zsh-prompt.git
-cd dexcom-zsh-prompt
+git clone https://github.com/faymaz/dexcom.git
+cd dexcom
 ```
 
 ### Step 2: Install Required Python Libraries
