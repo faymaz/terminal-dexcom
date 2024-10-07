@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=faymaz.dexcom)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=faymaz.terminal-dexcom)
 # Dexcom Blood Glucose Monitoring with Zsh Prompt Integration
 
 ![Dexcom_1](images/dexcom_1.png)
