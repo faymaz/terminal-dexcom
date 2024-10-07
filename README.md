@@ -33,7 +33,7 @@ This project allows you to display **live blood glucose (BG) values** from a **D
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/faymaz/dexcom.git
+git clone https://github.com/faymaz/terminal-dexcom.git
 cd dexcom
 ```
 
@@ -119,7 +119,7 @@ Once everything is set up, your terminal prompt will display your blood glucose 
 Example prompt:
 
 ```bash
-163 mg/dL → 14:25 faymaz@programirez:~/Projects/dexcom$
+163 mg/dL → 14:25 faymaz@programirez:~/Projects/terminal-dexcom$
 ```
 
 ### Color Codes
